@@ -17,6 +17,8 @@ Step 3: It will come with two different folders, one is for 32bit, and another o
 
 Step 4: Goto 64bit there you can find below files.
 
+Step 5: Add the path of Redis db to User and System Environment path.
+
 Install Redis server on windows 10
 Step 4: Double click on the redis-server.exe file, there you can see the redis-server startup and wait for connecting to clients like below.
 
