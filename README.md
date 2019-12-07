@@ -44,6 +44,9 @@ Reading data from redis:
 redis 127.0.0.1:6379> get "name"
 "Mohamed Salah"
 
+
+Reference: https://www.onlinetutorialspoint.com/spring-boot/setup-install-redis-server-on-windows-10.html
+
 This is th Redis Desktop Manager that will help you track your datasets:
 https://redisdesktop.com/  and here is a quick start 
 http://docs.redisdesktop.com/en/latest/quick-start/
